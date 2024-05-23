@@ -24,5 +24,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/heorgii-h
 ## 💬 Fun Fact
 
 Did you know? C# was originally named "Cool" when it was being developed in the late 1990s by Microsoft. But later it was renamed to C# due to trademark issues.
-
-Thanks for stopping by! Happy coding! 😊
