@@ -20,7 +20,3 @@ Welcome to my GitHub profile! I'm a passionate C# developer with a knack for wri
 ## 🚀 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/heorgii-holovanev-3bb826264/) to discuss exciting opportunities, collaborate on projects, or simply share memes!
-
-## 💬 Fun Fact
-
-Did you know? C# was originally named "Cool" when it was being developed in the late 1990s by Microsoft. But later it was renamed to C# due to trademark issues.
