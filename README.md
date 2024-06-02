@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate C# developer with a knack for wri
 
 ## 🔧 Skills
 
-- **Languages:** C#, C++, Python, JavaScript
-- **Frameworks:** .NET, ASP.NET Core, Unity, ASP.NET Web API
+- **Languages:** C#, C++, Python, JavaScript, Typescript
+- **Frameworks:** .NET, ASP.NET Core, Unity, ASP.NET Web API, Angular
 - **Databases:** SQL Server, MySQL, PostgreSQL
 - **Tools:** Visual Studio, Git, Docker
 
