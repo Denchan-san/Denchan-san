@@ -1,4 +1,4 @@
-### Howdy! Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Heorgiy.
+### Howdy! Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Heorgii.
 
 Welcome to my GitHub profile! I'm a passionate C# developer with a knack for writing clean and efficient code. I believe in the power of technology to make the world a better place, one line of code at a time. When I'm not busy crafting software solutions, you can find me exploring new programming concepts, sipping coffee, or indulging in a good book.
 
