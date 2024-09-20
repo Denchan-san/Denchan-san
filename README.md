@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate C# developer with a knack for wri
 - **Languages:** C, C#, C++, Python, JavaScript, Typescript
 - **Frameworks:** .NET, ASP.NET Core, ASP.NET Web API, Angular
 - **Databases:** SQL Server, MySQL, PostgreSQL, MSSQL
-- **Tools:** Visual Studio, Sublime Text, Git, Postman
+- **Tools:** Visual Studio, Sublime Text, Git, Postman, Docker
 
 ## 📈 GitHub Stats
 
