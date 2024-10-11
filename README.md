@@ -20,4 +20,3 @@ Welcome to my GitHub profile! I'm a passionate C# developer with a knack for wri
 ## 🚀 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/heorgii-holovanev-3bb826264/) to discuss exciting opportunities, collaborate on projects, or simply share memes!
-!!! 
